@@ -49,3 +49,4 @@ Update with this configuration:
 ```
 
 Restart Claude and you should see the tools become available.
+Lead AR authenticated MCP connector.
